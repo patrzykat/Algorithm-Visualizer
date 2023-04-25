@@ -1,6 +1,6 @@
 # Algorithm Visualizer
 
-Visualizer for common pathfinding and backtracking algorithmsincluding BFS, DFS, A-Star, and the N-Queens chess problem. Coded in Python using PyGame module.
+Visualizer for common pathfinding and backtracking algorithms including BFS, DFS, A-Star, and the N-Queens chess problem. Coded in Python using PyGame module.
 
 #### Main Menu
 <img width="400" alt="menu-screen" src="https://user-images.githubusercontent.com/54457854/130320561-b053fbe2-0cc3-44e7-ab41-885bcf093b2f.png">
